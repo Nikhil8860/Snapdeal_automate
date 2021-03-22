@@ -1,0 +1,4 @@
+USER ID (1, 75811, 'pos')CHANNEL_ID(3, 75811, 'amazon')
+USER ID (1, 75830, 'pos')CHANNEL_ID(3, 75830, 'amazon')
+USER ID (3, 75912, 'flipkart')CHANNEL_ID(2, 75912, 'amazon')
+USER ID (1, 76102, 'pos')CHANNEL_ID(2, 76102, 'amazon')
